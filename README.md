@@ -7,3 +7,11 @@ It started with the basics of python and common libraries like numpy, matplotlib
 
 The course covered most of the popular machine learning algorithms. The folder name indicates the focus of the project inside, or the adopted algorithm.
 
+### Algorithms
+- Linear Regression
+- Logistic Regression
+- K-Nearest Neighbors
+- Decision Trees
+- Random Forest
+- Support Vector Machines
+- K-Means Clustering

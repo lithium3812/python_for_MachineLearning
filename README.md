@@ -1,7 +1,7 @@
 # python_for_MachineLearning
 ## Assignments and projects in a machine learning Udemy course
 
-These files are assignments and projects I worked on in a Udemy Machine Learning course "Python for Data Science and Machine Learning Bootcamp" by Jose Portilla.
+These files are assignments and projects I worked on in a Udemy Machine Learning course "Python for Data Science and Machine Learning Bootcamp" by Jose Portilla: https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
 
 I did not include other notebooks used for demonstration by the instructor.
 
